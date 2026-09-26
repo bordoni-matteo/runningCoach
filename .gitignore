@@ -1,0 +1,52 @@
+# ==========================================
+# macOS System Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon headers
+Icon?
+
+# Thumbnails and metadata
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Files created by the Finder
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# ==========================================
+# Windows System Files
+# ==========================================
+# User-specific files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config files
+Desktop.ini
+desktop.ini
+
+# Recycling Bin
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows temporary files
+*.tmp
+
+# Windows system logs and crash dumps
+*.stackdump
